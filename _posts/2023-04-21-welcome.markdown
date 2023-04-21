@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Welcome to Yejin's blog!"
+date:   2023-04-20 00:00:04 +0900
+categories: 
+---
+**`Hello! Welcome to my blog`**<br>
+처음 만들어보는 블로그라 많이 부족하지만 앞으로 발전하는 모습 보여드리겠습니다 :)
+
+
+
+
